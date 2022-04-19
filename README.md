@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## CRUD Store
+- Halaman Utama 
+![image](https://user-images.githubusercontent.com/77374015/163921953-31da459d-a7f5-4711-879b-6444733a918c.png)
+- Tambah Barang
+![image](https://user-images.githubusercontent.com/77374015/163922018-0ad1fc43-33d4-43e7-890d-32e1d087397d.png)
+- Detail Barang
+![image](https://user-images.githubusercontent.com/77374015/163922061-c89fda8f-7464-4d4e-8f02-c2a9c952419f.png)
+- Edit Barang
+![image](https://user-images.githubusercontent.com/77374015/163922088-a1bbf89c-2e3a-4557-8c49-70508c1ae613.png)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
